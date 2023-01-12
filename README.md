@@ -8,5 +8,5 @@
  
  <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlentyBugs&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlentyBugs&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlentyBugs&theme=2077"/>
 </div>

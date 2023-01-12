@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Cringe+Man"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Cringe+Man+Cringe+Man+Cringe+Man"/>
 </div>
 
 <div align="center">

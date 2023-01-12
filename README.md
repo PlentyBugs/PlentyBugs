@@ -1,6 +1,13 @@
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=PlentyBugs&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
-    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=PlentyBugs&theme=prussian&hide_border=true" />
-</p>
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Cringe+Man"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PlentyBugs&theme=2077"/>
+ </div>
+ 
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlentyBugs&theme=2077"/>
+  <p/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PlentyBugs&theme=2077"/>
+</div>

@@ -10,3 +10,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PlentyBugs&theme=2077"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PlentyBugs&theme=2077"/>
 </div>
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=PlentyBugs&theme=prussian&hide_border=true"/>
+</div>
